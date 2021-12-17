@@ -4,7 +4,7 @@ Implemenatation of Linear Discriminant Analysis  in MATLAB using Fisher's Iris d
 # Example of the results
 The code generating the following figures is found in phase_diff_probability.py.
 
-<img src="./figures/result.eps" width=90%>
+<img src="./figures/result.png" width=100%>
 
 # Requirements<br>
 &ensp; Operation has been confirmed only under the following environment. <br>
