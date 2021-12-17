@@ -2,7 +2,7 @@
 Implemenatation of Linear Discriminant Analysis  in MATLAB using Fisher's Iris data
 
 # Example of the results
-The code generating the following figures is found in LDA_fisheriris.m.
+The code generating the following figure is found in LDA_fisheriris.m.
 
 <img src="./figures/result.png" width=100%>
 
